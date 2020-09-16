@@ -1,0 +1,15 @@
+Cara menghitung volume kubus
+Contoh : Panjang sisi sebuah kubus adalah 3 meter
+
+Algoritma :
+1. Mendeklarasikan Sisi
+2. Masukkan Sisi = 3
+3. Menghitung Volume = Sisi^3
+4. Menampilkan hasil perhitungan Volume
+
+Pseudocode :
+Deklarasi
+var Volume, Sisi
+Sisi ← 3
+Volume = pow(Sisi, 3)
+write(Volume)
