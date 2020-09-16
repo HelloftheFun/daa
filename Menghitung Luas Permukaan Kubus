@@ -1,0 +1,15 @@
+Cara menghitung luas permukaan kubus
+Contoh : Panjang sisi sebuah kubus adalah 3 meter
+
+Algoritma :
+1. Mendeklarasikan Sisi
+2. Masukkan Sisi = 3
+3. Menghitung LuasPermukaan = 6 * Sisi^2
+4. Menampilkan hasil perhitungan LuasPermukaan
+
+Pseudocode :
+Deklarasi
+var LP, Sisi
+Sisi ← 3
+LP = 6 * pow(Sisi, 2)
+write(LP)
